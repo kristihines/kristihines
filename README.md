@@ -14,28 +14,21 @@ Here are some ideas to get you started:
 -->
 
 ## [Kristi Hines](https://kristihines.com/)
-Content Creator, Photographer, and Digital Marketing Specialist from Phoenix, Arizona, United States.
+Content Creator, Photographer, and Digital Marketing Specialist 
 
 ![Me at OpenAI DevDay in San Francisco, CA](https://kristihines.com/wp-content/uploads/2024/04/kristi-hines-openai-devday-san-francisco-225x300.jpeg)
 
-## Contact:
+## Contact
 - [hire@kristhines.com](mailto:hire@kristihines.com)
 - [kristihines.com](https://kristihines.com/)
 
-## Social Media:
+## Social Media
 - [Instagram](https://www.instagram.com/kristileilani/)
 - [LinkedIn](https://www.linkedin.com/in/kristihines/)
 - [Reddit](https://www.reddit.com/user/kristileilani/)
 - [X/Twitter](https://twitter.com/kristileilani)
 
-## Favorite Tools:
-- AI: ChatGPT, Gemini, Perplexity, Pi, and Poe
-- Content: Adobe, Canva, and Loom
-- Google: Analytics, Search Console, and Workspace
-- Marketing: BuzzSumo, Semrush, and Similarweb
-- Website: Shopify and WordPress
-
-## Latest Articles:
+## Latest Articles
 - [Combining Self-Portrait Photography with AI-Generated Image Backdrops](https://kristihines.com/self-portrait-photography-remixed-with-ai/)
 - [Top AI Chatbots & Playgrounds](https://kristihines.com/top-ai-chatbots-playgrounds/)
 - [23 AI Conferences for 2024-2025](https://kristihines.com/ai-conferences/)
@@ -52,7 +45,14 @@ Content Creator, Photographer, and Digital Marketing Specialist from Phoenix, Ar
 - [Topic Idea Generator](https://chat.openai.com/g/g-LCEeDPEtQ-topic-idea-generator)
 - [Web Quality Analyst](https://chat.openai.com/g/g-CE8weAzU3-web-quality-analyst)
 
-## Photography: 
+## Favorite Tools
+- AI: ChatGPT, Gemini, Perplexity, Pi, and Poe
+- Content: Adobe, Canva, and Loom
+- Google: Analytics, Search Console, and Workspace
+- Marketing: BuzzSumo, Semrush, and Similarweb
+- Website: Shopify and WordPress
+
+## Photography
 ![Lake Pleasant Arizona](https://kristihines.com/wp-content/uploads/2024/04/arizona-sunset-lake-pleasant-2048x1536.jpeg)
 *Classic Arizona sunset photographed at Lake Pleasant*
 
@@ -63,9 +63,9 @@ Content Creator, Photographer, and Digital Marketing Specialist from Phoenix, Ar
 *Self portrait remixed with AI-generated backdrop of Gothic library*
 
 ![Pet Portrait](https://kristihines.com/wp-content/uploads/2024/04/pet-portrait-kitten-2048x1365.jpg)
-*Cat tax*
+*Cat tax 🐱*
 
-## Hobbies:
-- Backyard desert gardening in Zone 9b
+## Hobbies
+- Backyard desert gardening in zone 9b
 - Camping and hiking
 - Tennis
