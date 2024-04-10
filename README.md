@@ -49,7 +49,7 @@ Content Creator, Photographer, and Digital Marketing Specialist
 - AI: ChatGPT, Gemini, Perplexity, Pi, and Poe
 - Content: Adobe, Canva, and Loom
 - Google: Analytics, Search Console, and Workspace
-- Marketing: BuzzSumo, Semrush, and Similarweb
+- Marketing: IFTTT, BuzzSumo, Semrush, Similarweb, and Zapier
 - Website: Shopify and WordPress
 
 ## Photography
